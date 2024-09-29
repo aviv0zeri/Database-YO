@@ -1,0 +1,14 @@
+{
+    "redirects": [
+      {
+        "source": "/form-link",
+        "destination": "/form.html",
+        "permanent": true
+      },
+      {
+        "source": "/database-link",
+        "destination": "/database.html",
+        "permanent": true
+      }
+    ]
+  }
